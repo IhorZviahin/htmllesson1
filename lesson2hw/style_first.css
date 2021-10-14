@@ -1,0 +1,24 @@
+body, html {
+    scroll-behavior: smooth;
+}
+
+a:hover {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.b {
+    text-align: center
+}
+
+.c {
+    font-size: 66px;
+}
+
+img {
+    border: 10px solid black;
+}
