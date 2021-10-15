@@ -1,0 +1,48 @@
+body {
+    background: #4280de;
+}
+
+.txtcenter {
+    text-align: center;
+}
+
+.fatherfor3 {
+
+    display: flex;
+    justify-content: center;
+}
+
+.threeblocks {
+    background: aqua;
+    width: 33%;
+    max-height: 480px;
+    padding: 10px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.one {
+    height: auto;
+    border: 5px solid black;
+    background: #815ea1;
+    justify-content: center;
+}
+
+.info {
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #fd0026;
+}
+img {
+    border: 2px solid black;
+}
