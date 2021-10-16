@@ -15,7 +15,7 @@ body {
 .threeblocks {
     background: aqua;
     width: 33%;
-    max-height: 480px;
+    max-height: 800px;
     padding: 10px;
     border: 5px solid black;
     box-sizing: border-box;
