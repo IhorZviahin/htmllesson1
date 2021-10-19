@@ -1,0 +1,43 @@
+.father {
+    width: 600px;
+    height: 1000px;
+    background: silver;
+}
+
+.a {
+    width: 580px;
+    height: 500px;
+    background: #fd0026;
+    box-sizing: border-box;
+    margin: 10px;
+    display: flex;
+}
+.b{
+    width: 580px;
+    height: 230px;
+    background: #fd0026;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.c{
+    width: 580px;
+    height: 230px;
+    background: #fd0026;
+    box-sizing: border-box;
+    margin: 10px;
+    display: flex;
+}
+.xxx{
+    width: 50%;
+    height: 480px;
+    background: black;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.yyy{
+    width: 30%;
+    height: 210px;
+    background: black;
+    box-sizing: border-box;
+    margin: 10px;
+}

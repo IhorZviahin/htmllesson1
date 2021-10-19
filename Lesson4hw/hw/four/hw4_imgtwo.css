@@ -1,0 +1,28 @@
+.all{
+    width: 900px;
+    height:800px;
+}
+
+.header {
+    width: 900px;
+    height: 150px;
+    background: blue;
+}
+.nav{
+    width: 900px;
+    height: 100px;
+    background: #010180;
+}
+.father {
+    display: flex;
+}
+.main{
+    width: 700px;
+    height: 450px;
+    background: aqua;
+}
+.aside{
+    width: 200px;
+    height: 450px;
+    background: #815ea1;
+}

@@ -1,0 +1,33 @@
+body{
+    background: silver;
+}
+
+.widgets{
+    width: 900px;
+    height: 300px;
+    background: #4280de;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.threeelem{
+    width: 900px;
+    height: 200px;
+    box-sizing: border-box;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+.xxx{
+    width: 300px;
+    height:200px;
+    background: #4280de;
+    box-sizing: border-box;
+}
+.contact{
+    width: 900px;
+    height: 550px;
+    background: #4280de;
+    box-sizing: border-box;
+    margin: 10px;
+}

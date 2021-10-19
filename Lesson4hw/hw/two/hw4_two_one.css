@@ -1,0 +1,41 @@
+.all{
+
+    width: 1000px;
+    height: 860px;
+    background: silver;
+}
+.header{
+
+    width: 980px;
+    height: 150px;
+    background: #815ea1;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.a{
+    width: 980px;
+    height: 530px;
+    background: #815ea1;
+    box-sizing: border-box;
+    margin: 10px;
+    display: flex;
+}
+.menu{
+    width: 300px;
+    height: 500px;
+    background: #fd0026;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.b{
+    width: 680px;
+    height: 500px;
+}
+.post{
+    width: 660px;
+    height: 50%;
+    background: silver;
+    box-sizing: border-box;
+    margin: 10px;
+
+}
