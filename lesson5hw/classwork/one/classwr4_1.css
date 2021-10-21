@@ -1,0 +1,59 @@
+.a {
+    width: 800px;
+    height: 300px;
+
+}
+.vt{
+    width: 700px ;
+    height: 20px;
+}
+.bl{
+    width: 700px;
+    height:270px ;
+}
+.position {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.bagdark {
+    background: #010134;
+}
+
+.bagwhite {
+    background: #cbc9c9;
+}
+
+.border {
+    border: 3px solid #5656ff;
+}
+
+.b {
+    width: 700px;
+    height: 270px;
+    border-radius: 30px;
+
+}
+
+.block {
+    width: 250px;
+    height: 250px;
+}
+
+.blocktwo {
+    width: 150px;
+    height: 150px;
+}
+
+.rone {
+    border-radius: 10px;
+}
+
+.rtwo {
+    border-radius: 50%;
+}
+
+.txt {
+    text-align: center;
+}
