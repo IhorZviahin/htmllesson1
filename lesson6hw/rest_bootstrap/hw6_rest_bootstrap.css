@@ -1,3 +1,4 @@
+
 .header_two {
     height: 900px;
     background: url("image/bg.png") no-repeat center/cover;
@@ -5,6 +6,18 @@
 .navbar-brand img {
     width: 50px;
 }
-/*.navbar {*/
-/*    background-color: none;*/
-/*}*/
+.nav-link a {
+    color: #FFFFFF;
+}
+
+.navbar-toggler-icon{
+    background-color: #ff7400;
+}
+.mobile {
+    !important
+    display: none;
+    width: 30px;
+    flex-direction: column;
+    row-gap: 4px;
+    background: #ff7400;
+}
