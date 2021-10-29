@@ -1,0 +1,10 @@
+.header_two {
+    height: 900px;
+    background: url("image/bg.png") no-repeat center/cover;
+}
+.navbar-brand img {
+    width: 50px;
+}
+/*.navbar {*/
+/*    background-color: none;*/
+/*}*/
