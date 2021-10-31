@@ -169,8 +169,8 @@ table {
     margin-right: 10px;
 }
 
-txt p::after {
-    margin-right: 10px;
+.txt p::after {
+    margin-left: 10px;
 }
 
 .header__button_two {
