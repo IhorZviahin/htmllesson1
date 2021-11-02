@@ -1,0 +1,120 @@
+@media screen and (max-width: 600px) {
+    .bodyone {
+        display: none;
+    }
+
+    .bodyone_mobile {
+
+        display: flex
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .txt {
+        padding-top: 58px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .txt h1 {
+        font-size: 34px;
+        line-height: 40px;
+        color: #1652AC;
+    }
+
+    .txtp p {
+        color: #020303;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .txt h1::after {
+        content: "";
+        display: block;
+        width: 227px;
+        height: 7px;
+        background: #EDEFF3;
+    }
+
+    .txt h1::after {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    .boxx_three {
+
+        height: 100%;
+    }
+
+    .txt_three {
+        padding: 16px;
+    }
+
+    .txt_four {
+        padding: 16px;
+
+    }
+
+    .card {
+        width: 358px;
+        height: 136px;
+    }
+    .carr {
+        row-gap: 9px;
+    }
+    .carr_two{
+        row-gap: 9px;
+    }
+    .carr_two{
+        row-gap: 9px;
+    }
+
+    .newwww {
+        flex-direction: column-reverse;
+    }
+
+    .newwtwo {
+
+        flex-direction: column;
+    }
+
+    .cn {
+        color: #020303;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .bodyeleven {
+        margin-top: 0px;
+
+    }
+
+    .bot {
+        width: 359px;
+        height: 64px;
+    }
+
+    .bbone {
+        row-gap: 9px;
+    }
+
+    .bbtwo {
+        row-gap: 9px;
+    }
+
+    .jjj h2 {
+        padding-top: 1px;
+    }
+
+    .jjjt {
+        padding-top: 32px;
+    }
+}
+
